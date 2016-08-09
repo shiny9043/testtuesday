@@ -1,0 +1,7 @@
+<html>
+<h1> This is my 1st heading in git </h1>
+<p> this is my 1st para in index.file </p>
+<p> this is my 2nd para in index.file </p>
+<p> this is my 3rd para in index.file </p>
+
+</html>
